@@ -4,3 +4,4 @@ langchain-mcp-adapters
 langgraph
 python-dotenv
 google-generativeai
+pymysql
